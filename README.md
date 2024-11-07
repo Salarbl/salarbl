@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Salar</h1>
-<h3 align="center">/h3>
+<h3 align="center"></h3>
 
 - 🌱 I learning **For Fun**
 
